@@ -1,6 +1,6 @@
-# Command-Based Communication between ESP8266 and Python
+# Command-Based Serial Communication between ESP8266 and Python code
 
-This repository contains code for establishing a command-based communication system between an ESP8266 microcontroller and a Python script. The system includes functionalities such as blinking the LED, customizing delay, turning the LED ON/OFF, and halting operations.
+This repository contains code for establishing a command-based serial communication system between an ESP8266 microcontroller and a Python script. The system includes functionalities such as blinking the LED, customizing delay, turning the LED ON/OFF, and halting operations.
 
 ## Features
 
